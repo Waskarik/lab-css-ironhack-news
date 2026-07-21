@@ -215,9 +215,6 @@ header {
 .article{
     width: 100%;
 }
-.main-article .image {
-    width: 100%;
-}
 }
 @media (width > 760px) and (width < 1024px){
 .main-article {
@@ -232,7 +229,7 @@ header {
     border-bottom: none;
     border-right: 1px solid white;
 }
-.article-content{
+.article-container{
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
