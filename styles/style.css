@@ -225,7 +225,7 @@ header {
     flex-direction: row;
     }
 .navbar li{
-    width: 100%;
+    flex: 1;
     border-bottom: none;
     border-right: 1px solid white;
 }
