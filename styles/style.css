@@ -209,7 +209,7 @@ header {
 .main-article .image{
     width: 100%;
 }
-.article-container{
+.articles-container{
     flex-direction: row;
 }
 .article{
@@ -229,7 +229,7 @@ header {
     border-bottom: none;
     border-right: 1px solid white;
 }
-.article-container {
+.articles-container {
   flex-direction: row;
   justify-content: space-between;
   flex-wrap: wrap;
